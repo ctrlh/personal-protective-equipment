@@ -4,19 +4,16 @@ This design is cut out of 4-7 mil clear plastic sheeting. We used polyester, but
 
 ### Instructions
 
-1. Sterilize your workspace.
+* Sterilize your workspace.
 
-2. Download the files.
+* Download the files.
 
-3. Cut the files.
+* Cut the files.
 
-4. Make as many as you can!
-
-5. Donate to first responders or hospitals. 
-
-### Oregon Donations
-
-[How to Donate PPE in Oregon](https://www.myoregon.gov/2020/03/19/medical-professionals-asked-to-donate-surplus-ppe)
+* Make as many as you can!
+  * Donate to first responders and hospitals! (US Instructions) The correct contact flow for identifying first responder and hospital needs is through (ESF15) Emergency Management Joint Information Center. For PDX Hackerspace (Multnomah County) it's https://multco.us/em/emergency-management-contact-information
+  * Updated 3/22/2020 - [drop-off points for Multnomah County](https://www.myoregon.gov/2020/03/19/medical-professionals-asked-to-donate-surplus-ppe/?fbclid=IwAR2NB61SkEIvVmJIJs4YR7h7PvNmgK6z7GaP1kakN_UZAFjI-Oq7X_tPQ1Y)
+  * Additional Source: [How to Donate PPE in Oregon](https://www.myoregon.gov/2020/03/19/medical-professionals-asked-to-donate-surplus-ppe)
 
 ## Production Notes 
 
