@@ -1,6 +1,8 @@
-# Laser Face Shield version 1.0
+# Laser Face Shield version 1.1
 
-This design is cut out of 4-7 mil clear plastic sheeting. We used polyester, but many types of clear plastic are suitable for this application. However, always make sure that the plastic is compatible with your laser cutter before use.
+This design is cut out of 4-7 mil clear plastic sheeting with the addition of a manually cut piece of 1"x1"x7.5" polyeurethane foam (do not cut foam on your laser!). 
+
+For our laerable clear sheeting, we used polyester, but many types of clear plastic are suitable for this application. However, always make sure that the plastic is compatible with your laser cutter before use.
 
 ### Instructions
 
@@ -8,7 +10,11 @@ This design is cut out of 4-7 mil clear plastic sheeting. We used polyester, but
 
 * Download the files.
 
-* Cut the files.
+* Only cut the sheeting on your laser. Manually cut the foam with a hotknife or fine saw blade to 1"x1"x7.5"(Again, do not use the laser to cut the foam!)
+
+* Assembly Instructions
+  * Working from the inside of the mask, insert each side's headband tab out and in both slots on each side of the mask. 
+  * Apply to head, locking diagonal headband slots on each end of the headband together.
 
 * Make as many as you can!
 
@@ -24,7 +30,7 @@ This model is designed to fit on a commonly sized 500x700mm (K700) laser bed. If
 ## Laser Face Shield Authors
 
 * **Maxwell Andrews** - *Initial Work* - [GitHub](https://github.com/madmaxbr5)
-* **Jon Hannis** - *Production Modification* - [Github](https://github.com/jonhannis)
+* **Jon Hannis** - *Production Modifications* - [Github](https://github.com/jonhannis)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
