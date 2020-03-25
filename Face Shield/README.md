@@ -2,7 +2,7 @@
 
 This design is cut out of 5-7 mil rigid clear plastic sheeting with the (optional) addition of a manually cut piece of 1"x1"x7.5" polyeurethane foam (do not cut foam on your laser!) and rubber or elastic bands to provide tension around the back of the head. 
 
-For our laerable clear sheeting, we used polyester, but many types of clear plastic are suitable for this application. However, always make sure that the plastic is compatible with your laser cutter before use.
+For our laserable clear sheeting, we used polyester, but many types of clear plastic are suitable for this application. However, always make sure that the plastic is compatible with your laser cutter before use.
 
 ### Instructions
 
