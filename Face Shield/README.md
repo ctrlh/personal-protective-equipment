@@ -11,6 +11,7 @@ For our laserable clear sheeting, we used polyester, but many types of clear pla
 * Download the files.
 
 * Assembly Instructions
+  * Origami assembly approximated [here](https://www.youtube.com/watch?v=PY7l819OARc)
   * Working from the inside of the mask, slide each side of your headband through the larger shield slot on each side. Next thread the headband arrow tab back through the second smaller slot on each side of the shield.
   * thread a looped piece of elastic or rubber bands through the hole on the inside of each headband end (thread loops from inside to outside) then wrap each side of the band around each hook.
 
