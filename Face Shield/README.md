@@ -40,4 +40,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* A huge thanks to Maxwell Andrews, [Helpful Engineering](https://helpfulengineering.org) and [the MASK Project](https://maskproject.tech) for their work in organizing this and many other relief projects together.
+* A huge thanks to Maxwell Andrews, [Helpful Engineering](https://helpfulengineering.org) and [the MASK Project](https://maskproject.tech) for their work in organizing this and many other COVID-19 rapid response projects.
