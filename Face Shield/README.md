@@ -5,7 +5,7 @@ This design is cut out of 5-20 mil rigid clear plastic sheeting and uses rubber 
 For our laserable clear sheeting, we used polyester (PET), but many types of clear plastic are suitable for this application (polyester/mylar, acetate, PET). However, always make sure that the plastic is compatible with your laser cutter before use.
 
 ### First Responders and Medical Professionals
-* please use [this form](https://immediate-needs.pdxhackerspace.org/) to request PPE (Personal Protective Equipment) donations
+* please use [this form](https://pdxhackerspace.org/request-ppe.html) to request PPE (Personal Protective Equipment) donations
 
 ### Origami Face Shield Production Instructions
 
