@@ -1,6 +1,6 @@
 # Origami Face Shield version 2.0 with Elastic Strap Modification
 
-This design is cut out of 5-20 mil rigid clear plastic sheeting and uses rubber or elastic bands to provide tension around the back of the head. 
+This design is cut out of 5-20 mil rigid clear plastic sheeting and uses non-latex rubber or elastic bands to provide tension around the back of the head. Shield assembly illustrated [here](./v2.0_Origami_Instructions.pdf) and band installation demonstrated [here](./elastic.origami.gif).
 
 For our laserable clear sheeting, we used polyester (PET), but many types of clear plastic are suitable for this application (polyester/mylar, acetate, PET). However, always make sure that the plastic is compatible with your laser cutter before use.
 
