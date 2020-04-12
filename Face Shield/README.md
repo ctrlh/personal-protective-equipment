@@ -36,7 +36,7 @@ This model is designed to fit on smaller laser beds for distributed production w
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the CERN Open Hardware Licence Version 2 - Permissive
 
 ## Acknowledgments
 
