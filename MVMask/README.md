@@ -10,7 +10,7 @@ The MVMask fabric face mask is a pleated pocket design cut out of quilter's cott
 ### First Steps
 
 * Start by cutting out 12"x14" rectangles of quilter's cotton or other suitable fabric, 1 rectangle per mask. 
-  *Important: many synthetic fabrics are not suitable as they do not wick moisture, creating conditions that prolong the life of COVID-19. 
+  * Important: many synthetic fabrics are not suitable as they do not wick moisture, creating conditions that prolong the life of COVID-19. 
 * LASER/DRAG CUTTER REQUIRED: This is not a scissor friendly pattern, but meant for hobbyists and makers with access to cnc laser and drag cutting machines.
   
   ![Image of MVMask v6.0 Construction](v6.0.MVMask-Instructions.png)
