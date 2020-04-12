@@ -2,15 +2,12 @@
 
 ## Important! [Prerequisite Information on Face Mask Use Here](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
-This design is cut out of quilter's cotton and uses non-latex elastic bands or straps to provide tension around the back of the neck and crown of the head. Mask construction information is detailed below.
-
-
+The MVMask is a pleated pocket design cut out of quilter's cotton with non-latex elastic bands or straps providing tension around the back of the neck and crown of the head. Mask construction information is detailed below.
 
 ### First Responders and Medical Professionals
 * This face mask is not recommended for medical use and has not been scientifically tested. If you're in Portland and surrounding areas, please use [this link](https://multco.us/em/need-resources-multnomah-county-resource-request-form) to request fabric face masks from Multnomah County Emergency Management
 
 ### MVMask Face Mask Instructions
-
 
 * Construction
   * Start by cutting out 12"x14" rectangles of quilter's cotton or other suitable fabric. Important: many synthetic fabrics are not suitable as they do not wick moisture, creating conditions that prolong the life of COVID-19. 
