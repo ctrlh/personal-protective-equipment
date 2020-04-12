@@ -1,8 +1,6 @@
 # MVMask version 6.0 Adult and Child
 
-## Important! 
-
-[Prerequisite Information on Face Mask Use Here](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+## Important! [Prerequisite Information on Face Mask Use Here](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
 This design is cut out of quilter's cotton and uses non-latex elastic bands or straps to provide tension around the back of the neck and crown of the head. Mask construction information is detailed below.
 
