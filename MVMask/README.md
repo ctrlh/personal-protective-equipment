@@ -14,7 +14,7 @@ The MVMask fabric face mask is a pleated pocket design cut out of quilter's cott
 * LASER/DRAG CUTTER REQUIRED: This is not a scissor friendly pattern, but meant for hobbyists and makers with access to cnc laser and drag cutting machines.
   
   ![Image of MVMask v6.0 Construction](v6.0.MVMask-Instructions.png)
-## Steps
+## Construction
   1. Lay cut pattern flat on your ironing board. Iron out any large creases.  
   2. Fold in each tab so that they overlap the main rectangle by ~1/2", iron the tabs to keep them in place.
   3. Fold the bottom of the large rectangle up, in half, aligning with the top of the rectangle, then iron to keep in place. 
