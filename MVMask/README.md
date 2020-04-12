@@ -1,6 +1,6 @@
 # MVMask version 6.0 Adult and Child
 
-## Important! [Prerequisite Information on Face Mask Use Here](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+## Important! [Prerequisite information on face mask use here](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
 The MVMask is a pleated pocket design cut out of quilter's cotton with non-latex elastic bands or straps providing tension around the back of the neck and crown of the head. Mask construction information is detailed below.
 
