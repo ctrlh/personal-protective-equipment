@@ -32,8 +32,7 @@ This model is designed for fast construction. It includes pinked edges, which me
 
 ## Laser Face Shield Authors
 
-* **Maxwell Andrews** - *Initial Work* - [GitHub](https://github.com/madmaxbr5)
-* **Jon Hannis** - *Elastic Headband Modification* - [Github](https://github.com/jonhannis)
+* **Jon Hannis** - *Creator* - [Github](https://github.com/jonhannis)
 
 ## License
 
@@ -41,4 +40,4 @@ This project is licensed under the CERN Open Hardware Licence Version 2 - Permis
 
 ## Acknowledgments
 
-* A huge thanks to Maxwell Andrews, [Helpful Engineering](https://helpfulengineering.org) and [the MASK Project](https://maskproject.tech) for their work in organizing this and many other COVID-19 rapid response projects.
+* Thanks to all the members of [PDX Hackerspace](https://pdxhackerspace.org) for their work in organizing this and many other COVID-19 rapid response projects.
