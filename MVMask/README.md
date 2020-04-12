@@ -7,11 +7,11 @@ The MVMask is a pleated pocket design cut out of quilter's cotton with non-latex
 ### First Responders and Medical Professionals
 * This face mask is not recommended for medical use and has not been scientifically tested. If you're in Portland and surrounding areas, please use [this link](https://multco.us/em/need-resources-multnomah-county-resource-request-form) to request fabric face masks from Multnomah County Emergency Management
 
-### MVMask Face Mask Instructions
+### First Steps
 
-* Construction
-  * Start by cutting out 12"x14" rectangles of quilter's cotton or other suitable fabric. Important: many synthetic fabrics are not suitable as they do not wick moisture, creating conditions that prolong the life of COVID-19. 
-  * LASER/DRAG CUTTER REQUIRED: This is not a scissor friendly pattern, but meant for hobbyists and makers with access to cnc laser and drag cutting machines.
+* Start by cutting out 12"x14" rectangles of quilter's cotton or other suitable fabric, 1 rectangle per mask. 
+  *Important: many synthetic fabrics are not suitable as they do not wick moisture, creating conditions that prolong the life of COVID-19. 
+* LASER/DRAG CUTTER REQUIRED: This is not a scissor friendly pattern, but meant for hobbyists and makers with access to cnc laser and drag cutting machines.
   
   ![Image of MVMask v6.0 Construction](v6.0.MVMask-Instructions.png)
 ## Steps
