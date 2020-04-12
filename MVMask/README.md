@@ -13,14 +13,14 @@ The MVMask is a pleated pocket design cut out of quilter's cotton with non-latex
   * Start by cutting out 12"x14" rectangles of quilter's cotton or other suitable fabric. Important: many synthetic fabrics are not suitable as they do not wick moisture, creating conditions that prolong the life of COVID-19. 
   * LASER/DRAG CUTTER REQUIRED: This is not a scissor friendly pattern, but meant for hobbyists and makers with access to cnc laser and drag cutting machines.
   
-  ![Image of MVMask v6.0 Construction](MVMask.Instructions.png)
+  ![Image of MVMask v6.0 Construction](v6.0.MVMask-Instructions.png)
   * Steps
-    1. Lay cut pattern flat on your ironing board. Iron out any large creases.  
+        1. Lay cut pattern flat on your ironing board. Iron out any large creases.  
 	2. Fold in each tab so that they overlap the main rectangle by ~1/2", iron the tabs to keep them in place.
 	3. Fold the bottom of the large rectangle up, in half, aligning with the top of the rectangle, then iron to keep in place. 
 	4. Fold all layers on top down, aligning your fold parallel with the bottom tabs' top line, then iron to keep in place. 
 	5. Fold the same layers back up, aligning your fold so that the top and bottom tabs are flush with eachother, then iron to keep in place.
-    6. stitch each side of the mask as illustrated in image 6 above.
+        6. stitch each side of the mask as illustrated in image 6 above.
 	7. feed your elastic through each of the tabs on each side and tie the ends together, forming a loop that goes through the mask.
 	7b. if not using elastic, leave the ends untied, tying in place when the mask is worn.
 	8. Once your filter material of choice is inserted fully into the mask's filter pocket (we 1/4 fold Scott's shop towels for ours), orient the mask correctly and apply as shown around your neck.
