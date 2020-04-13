@@ -1,4 +1,4 @@
-# MVMask version 6.0 Adult and Child
+# MVMask version 6.0
 
 ## Important! [Prerequisite information on face mask use here](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
